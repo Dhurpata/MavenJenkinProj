@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Suite" parallel="false">
+  <test name="Test1">
+    <classes>
+      <class name="com.maven.project.LoginTest"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Test2">
+    <classes>
+      <class name="com.maven.project.GetTitleTest"/>
+    </classes>
+    </test>
+    <test name="Test3">
+    <classes>
+      <class name="com.maven.project.ActtimeLogin"/>
+    </classes>
+  </test> <!-- Test -->
+  
+</suite> <!-- Suite -->
